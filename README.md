@@ -1,6 +1,6 @@
 # Analytics Portfolio
 
-Suva Narayan's technical portfolio. I am a recent graduate in bioengineering at the University of Illinois, looking for an exciting new career in data analytics. This portfolio contains projects for both professional and self-development. All external projects will have their repos linked in this README file.
+Suva Narayan's technical portfolio. I am a recent graduate in bioengineering at the University of Illinois, looking for an exciting new career in data analytics. This portfolio contains projects for both professional and self-development. All external projects will have their repositories linked in this README file.
 
 ## Preferred and Experienced Languages and Skills
 - Python
