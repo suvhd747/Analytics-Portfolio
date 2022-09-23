@@ -18,3 +18,8 @@ Discovering trends and commonalities among variants of the SARS-CoV-2 coronaviru
 
 ## [Prototype EEG Dog Collar](https://github.com/BlissChapman/Dug)
 Combining aspects of signal processing and computer science to interpret a dog's thoughts. Credit to Bliss Chapman for the creation of this repository.
+
+# Contact Information
+Please feel free to contact me/at any of these links:
+- [Gmail](mailto:vantagesuvgt8@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/suva-narayan-2a2092181/)
