@@ -31,3 +31,7 @@ Combining aspects of signal processing and computer science to interpret a dog's
 Please feel free to contact me/at any of these links:
 - [Gmail](mailto:vantagesuvgt8@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/suva-narayan-2a2092181/)
+
+# Sites
+- [GitHub](https://github.com/suvhd747)
+- [Kaggle](https://www.kaggle.com/suvanarayan)
