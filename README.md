@@ -10,6 +10,8 @@ Suva Narayan's technical portfolio. I am a recent graduate in bioengineering at 
 
 # Projects
 
+# Projects - External
+
 ## [apPETite - Improving PET Plastic Degradation](https://github.com/suvhd747/apPETite)
 Predicting, designing, and discovering an optimal enzyme with increased PET plastic degradation rate.
 
