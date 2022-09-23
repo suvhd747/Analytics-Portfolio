@@ -10,6 +10,12 @@ Suva Narayan's technical portfolio. I am a recent graduate in bioengineering at 
 
 # Projects
 
+## Image Analysis Project
+Optical Character and Facial Recognition of Newspaper Images with PIL, Tesseract, and OpenCV. This project was completed at the end of the Python 3 Programming Specialization offered by the University of Michigan.
+
+## Creation of a Python Package - apPETite
+Personal extension of PET plastic degradation project (see below). Expanded on developed algorithms and code to create a custom and unique package that can be used for most enzymatic or protein sequences.
+
 # Projects - External
 
 ## [apPETite - Improving PET Plastic Degradation](https://github.com/suvhd747/apPETite)
